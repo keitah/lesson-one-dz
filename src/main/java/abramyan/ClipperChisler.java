@@ -17,3 +17,5 @@ public class ClipperChisler {
         System.out.println("Результат: " + result);
     }
 }
+
+// Integer 13.

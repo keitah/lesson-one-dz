@@ -12,3 +12,4 @@ public class CircleSimple { // объявляем публичный класс
         System.out.println("Площадь: " + S); // вывод площади круга
     }
 }
+// Begin 14.

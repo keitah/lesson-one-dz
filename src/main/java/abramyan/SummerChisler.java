@@ -15,3 +15,5 @@ public class SummerChisler {
         System.out.println("Произведение цифр: " + product);
     }
 }
+
+// Integer 7.
